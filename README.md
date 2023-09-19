@@ -1,2 +1,1 @@
-# pre
-este es un repositorio de prueba del modulo 2 del precurso de henry
+este proyecto en una prueba de como crear un repositorio y clonarlo des github a mi computadora
